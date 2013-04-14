@@ -1,10 +1,10 @@
 # I need to test titles.
 
-Words words words
+Words words words also a link <http://www.freedesktop.org/>
 
 ## Subtitles
 
-more words
+more words and also an unvisited link <http://www.freedesktop.org/unvisited>
 
 ### Subsubtitles
 
