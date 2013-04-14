@@ -8,7 +8,7 @@ more words and also an unvisited link <http://www.freedesktop.org/unvisited>
 
 ### Subsubtitles
 
-there is an hr here
+there is an hr here also an internal link [[test]]
 
 ----
 
