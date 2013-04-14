@@ -4,8 +4,32 @@ Words words words also a link <http://www.freedesktop.org/>
 
 * here
 * is
-* a
-* list
+* zero
+ * one
+  * two
+   * three
+    * four
+     * five
+      * six
+       * seven
+        * eight
+         * nine
+          * ten
+----
+1. test
+ 1. test
+  1. test
+   1. test
+    1. test
+     1. test
+      1. test
+       1. test
+        1. test
+         1. test
+          1. test
+           1. test
+            1. test
+     * test
 
 ## Subtitles
 
