@@ -46,3 +46,8 @@ there is an hr here also an internal link [[test]]
     this is a code block
 
 [[!meta title="Test Repo"]]
+
+
+```
+this is a different kind of block
+```
